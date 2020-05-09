@@ -8,6 +8,3 @@
 - [Zabbix](https://www.zabbix.com)
 - [Zabbix Brasil](http://zabbixbrasil.org/)
 - [Dockerized Zabbix](https://zabbix.org/wiki/Dockerized_Zabbix)
-
-
-- []()
